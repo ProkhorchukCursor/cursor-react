@@ -8,6 +8,9 @@ const App = () => {
  return (
   <Container>
    <Title title="14-test-homework" subtitle />
+   <a href="https://prokhorchukcursor.github.io/cursor-hw/index.html">
+    &#8666; To main
+   </a>
    <Title title="Our posts about SW" />
    <Post
     author={{
